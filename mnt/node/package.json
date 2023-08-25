@@ -2,10 +2,10 @@
   "name": "mnt",
   "version": "1.0.0",
   "description": "",
-  "main": "xunit.ts",
+  "main": "src/index.ts",
   "scripts": {
     "test": "jest",
-    "start": "ts-node xunit.ts"
+    "start": "ts-node src/index.ts"
   },
   "author": "",
   "license": "ISC",
