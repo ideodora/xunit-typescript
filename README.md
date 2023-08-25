@@ -1,6 +1,7 @@
 # Required
 
 - Docker
+- VS Code (Dev Containers ext installed)
 
 ## To start
 
